@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Structure Course - EduCode</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="main-container">
+        <header>
+            <h1>EduCode</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html" class="nav-link" data-page="home">Home</a></li>
+                    <li><a href="index.html?page=courses" class="nav-link" data-page="courses">Courses</a></li>
+                    <li><a href="index.html?page=progress" class="nav-link" data-page="progress">Progress</a></li>
+                    <li><a href="index.html?page=about" class="nav-link" data-page="about">About</a></li>
+                    <li><a href="index.html?page=contact" class="nav-link" data-page="contact">Contact Us</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <article class="course-page-content">
+                <h1>HTML Structure: Building Blocks of the Web</h1>
+                <div class="course-intro">
+                    <p>Welcome to the foundational course on HTML! This course is designed to introduce you to the essential concepts of HyperText Markup Language (HTML), the backbone of every web page. You'll learn how to structure content, use semantic tags, and create well-organized, accessible web documents.</p>
+                    <p>Through a series of interactive lessons and AI-generated video tutorials, you'll gain the skills to build the structural foundation of any website. Let's start crafting the web!</p>
+                </div>
+
+                <div class="video-lessons">
+                    <h2>AI-Generated Video Lessons</h2>
+                    <div class="video-grid">
+                        <div class="video-card" data-video-id="html-lesson1">
+                            <div class="video-card-front">
+                                <div class="video-thumbnail"><i class="fas fa-play"></i></div>
+                                <h3>Lesson 1: Introduction to HTML</h3>
+                                <p>Understand what HTML is, its history, and basic document structure.</p>
+                                <button class="watch-video-btn">Watch Now</button>
+                            </div>
+                            <div class="video-card-back" data-video-src="videos/Lecture 1 HTML.mp4">
+                                <video controls muted playsinline>
+                                    <source src="" type="video/mp4">
+                                </video>
+                                <button class="close-video-btn"><i class="fas fa-times"></i></button>
+                            </div>
+                        </div>
+                        <div class="video-card" data-video-id="html-lesson2">
+                            <div class="video-card-front">
+                                <div class="video-thumbnail"><i class="fas fa-play"></i></div>
+                                <h3>Lesson 2: Essential HTML Tags</h3>
+                                <p>Learn about headings, paragraphs, lists, and links.</p>
+                                <button class="watch-video-btn">Watch Now</button>
+                            </div>
+                            <div class="video-card-back" data-video-src="videos/Lecture 2 HTML.mp4">
+                                <video controls muted playsinline>
+                                    <source src="" type="video/mp4">
+                                    Your browser does not support the video tag.
+                                </video>
+                                <button class="close-video-btn"><i class="fas fa-times"></i></button>
+                            </div>
+                        </div>
+                        <div class="video-card" data-video-id="html-lesson3">
+                            <div class="video-card-front">
+                                <div class="video-thumbnail"><i class="fas fa-play"></i></div>
+                                <h3>Lesson 3: Images and Multimedia</h3>
+                                <p>How to embed images, audio, and video content.</p>
+                                <button class="watch-video-btn">Watch Now</button>
+                            </div>
+                            <div class="video-card-back">
+                                <iframe src="https://www.youtube.com/embed/placeholder9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <button class="close-video-btn"><i class="fas fa-times"></i></button>
+                            </div>
+                        </div>
+                        <div class="video-card" data-video-id="html-lesson4">
+                            <div class="video-card-front">
+                                <div class="video-thumbnail"><i class="fas fa-play"></i></div>
+                                <h3>Lesson 4: Forms and Input Elements</h3>
+                                <p>Create interactive forms for user input.</p>
+                                <button class="watch-video-btn">Watch Now</button>
+                            </div>
+                            <div class="video-card-back">
+                                <iframe src="https://www.youtube.com/embed/placeholder10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <button class="close-video-btn"><i class="fas fa-times"></i></button>
+                            </div>
+                        </div>
+                        <div class="video-card" data-video-id="html-lesson5">
+                            <div class="video-card-front">
+                                <div class="video-thumbnail"><i class="fas fa-play"></i></div>
+                                <h3>Lesson 5: Semantic HTML5</h3>
+                                <p>Use modern semantic tags for better structure and SEO.</p>
+                                <button class="watch-video-btn">Watch Now</button>
+                            </div>
+                            <div class="video-card-back">
+                                <iframe src="https://www.youtube.com/embed/placeholder11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <button class="close-video-btn"><i class="fas fa-times"></i></button>
+                            </div>
+                        </div>
+                        <div class="video-card" data-video-id="html-lesson6">
+                            <div class="video-card-front">
+                                <div class="video-thumbnail"><i class="fas fa-play"></i></div>
+                                <h3>Lesson 6: HTML Tables</h3>
+                                <p>Organize tabular data effectively with HTML tables.</p>
+                                <button class="watch-video-btn">Watch Now</button>
+                            </div>
+                            <div class="video-card-back">
+                                <iframe src="https://www.youtube.com/embed/placeholder12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <button class="close-video-btn"><i class="fas fa-times"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <a href="index.html?page=courses" class="back-to-courses">← Back to All Courses</a>
+            </article>
+        </main>
+
+        <footer>
+            <p>© 2025 EduCode - All rights reserved | Developed by Natali Boeva</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
