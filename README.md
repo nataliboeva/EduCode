@@ -14,10 +14,10 @@ This project was presented to my **Web Programming lecturer at Paisii Hilendarsk
 
 ## Features
 
-- ![Check](https://img.shields.io/badge/-Beginner--friendly%20courses-brightgreen?style=for-the-badge) HTML, CSS, JavaScript, C++, and C# 
-- ![Check](https://img.shields.io/badge/-AI-guided%20video%20tutorials-brightgreen?style=for-the-badge) Interactive lessons  
-- ![Check](https://img.shields.io/badge/-Progress%20dashboard-brightgreen?style=for-the-badge) Stats tracking  
-- ![Check](https://img.shields.io/badge/-Responsive%20UI-brightgreen?style=for-the-badge) Modern design  
+- ![Check](https://img.shields.io/badge/%E2%9C%94-Beginner--friendly%20courses-brightgreen?style=for-the-badge) HTML, CSS, JavaScript, C++, and C#  
+- ![Check](https://img.shields.io/badge/%E2%9C%94-AI-guided%20video%20tutorials-brightgreen?style=for-the-badge) Interactive lessons  
+- ![Check](https://img.shields.io/badge/%E2%9C%94-Progress%20dashboard-brightgreen?style=for-the-badge) Stats tracking  
+- ![Check](https://img.shields.io/badge/%E2%9C%94-Responsive%20UI-brightgreen?style=for-the-badge) Modern design  
 
 ---
 
@@ -32,9 +32,10 @@ This project was presented to my **Web Programming lecturer at Paisii Hilendarsk
 
 ## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript  
-- **Libraries/Tools:** AI video generation APIs (for course demos)  
-- **Version Control:** Git & GitHub  
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
 ---
 
