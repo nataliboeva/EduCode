@@ -19,7 +19,32 @@ This project was presented to my **Web Programming lecturer at Paisii Hilendarsk
  ☑ **Responsive and modern UI** suitable for all devices  
 
 ---
+##Screenshots
 
+### Home Page
+![EduCode Home Page](Screenshots/Home_page.png)
+*The main landing page of EduCode showcasing navigation and featured courses.*
+
+![EduCode Home Page 2](Screenshots/Home_page_2.png)
+
+![EduCode Home Page 3](Screenshots/Home_page_3.png)
+
+### Courses
+![Courses Overview](Screenshots/Courses.png)
+*List of all programming courses available on EduCode.*
+
+![HTML Course Page](Screenshots/Courses_HTML.png)
+*Example of the HTML course page with AI-generated video tutorials.*
+
+### Contact
+![Contact Page](Screenshots/Contact.png)
+*Contact form page for user inquiries and feedback.*
+
+### Progress Dashboard
+![Progress Dashboard](Screenshots/Progress.png)
+*Dashboard showing student progress, stats, and course completion.*
+
+---
 ## Roadmap
 
 - Implement **dark theme** for improved UX  
