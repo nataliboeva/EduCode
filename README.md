@@ -7,7 +7,7 @@ This project was presented to my **Web Programming lecturer at Paisii Hilendarsk
 ---
 
 ## Demo
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=appveyor)](https://educode-bx5z.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-emerald?style=for-the-badge&logo=appveyor)](https://educode-bx5z.onrender.com)
 
 ---
 
