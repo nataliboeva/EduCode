@@ -14,10 +14,10 @@ This project was presented to my **Web Programming lecturer at Paisii Hilendarsk
 
 ## Features
 
-- ✅ **Beginner-friendly courses** for HTML, CSS, JavaScript, C++, and C#  
-- ✅ **AI-guided video tutorials** and interactive lessons  
-- ✅ **Progress dashboard** with stats tracking  
-- ✅ **Responsive and modern UI** suitable for all devices  
+ ✅ **Beginner-friendly courses** for HTML, CSS, JavaScript, C++, and C#  
+ ✅ **AI-guided video tutorials** and interactive lessons  
+ ✅ **Progress dashboard** with stats tracking  
+ ✅ **Responsive and modern UI** suitable for all devices  
 
 ---
 
