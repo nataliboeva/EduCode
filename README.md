@@ -7,8 +7,8 @@ This project was presented to my **Web Programming lecturer at Paisii Hilendarsk
 ---
 
 ## Demo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=appveyor)](https://educode-bx5z.onrender.com)
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://educode-bx5z.onrender.com)
 ---
 
 ## Features
