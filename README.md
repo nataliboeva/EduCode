@@ -28,9 +28,9 @@ This project was presented to my **Web Programming lecturer at Paisii Hilendarsk
     <td><img src="Screenshots/Home_page_3.png" alt="Home Page 3" width="300"></td>
   </tr>
   <tr>
-    <td>Home Page</td>
-    <td>Home Page 2</td>
-    <td>Home Page 3</td>
+    <td>Hero Section</td>
+    <td>Featured Highlights 2</td>
+    <td>Call-to-Action</td>
   </tr>
   <tr>
     <td><img src="Screenshots/Courses.png" alt="Courses" width="300"></td>
@@ -39,43 +39,14 @@ This project was presented to my **Web Programming lecturer at Paisii Hilendarsk
   </tr>
   <tr>
     <td>Courses Overview</td>
-    <td>HTML Course</td>
-    <td>Progress Dashboard</td>
+    <td>Lesson Preview</td>
+    <td>User Progress Dashboard</td>
   </tr>
   <tr>
     <td><img src="Screenshots/Contact.png" alt="Contact Page" width="300"></td>
   </tr>
   <tr>
-    <td>Contact Page</td>
-  </tr>
-</table>## Screenshots
-
-<table>
-  <tr>
-    <td><img src="Screenshots/Home_page.png" alt="Home Page" width="300"></td>
-    <td><img src="Screenshots/Home_page_2.png" alt="Home Page 2" width="300"></td>
-    <td><img src="Screenshots/Home_page_3.png" alt="Home Page 3" width="300"></td>
-  </tr>
-  <tr>
-    <td>Home Page</td>
-    <td>Home Page 2</td>
-    <td>Home Page 3</td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Courses.png" alt="Courses" width="300"></td>
-    <td><img src="Screenshots/Courses_HTML.png" alt="HTML Course" width="300"></td>
-    <td><img src="Screenshots/Progress.png" alt="Progress Dashboard" width="300"></td>
-  </tr>
-  <tr>
-    <td>Courses Overview</td>
-    <td>HTML Course</td>
-    <td>Progress Dashboard</td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Contact.png" alt="Contact Page" width="300"></td>
-  </tr>
-  <tr>
-    <td>Contact Page</td>
+    <td>Support Page</td>
   </tr>
 </table>
 
