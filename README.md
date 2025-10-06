@@ -14,10 +14,10 @@ This project was presented to my **Web Programming lecturer at Paisii Hilendarsk
 
 ## Features
 
-- ![Check](https://img.shields.io/badge/%E2%9C%94-Beginner--friendly%20courses-brightgreen?style=for-the-badge) HTML, CSS, JavaScript, C++, and C#  
-- ![Check](https://img.shields.io/badge/%E2%9C%94-AI-guided%20video%20tutorials-brightgreen?style=for-the-badge) Interactive lessons  
-- ![Check](https://img.shields.io/badge/%E2%9C%94-Progress%20dashboard-brightgreen?style=for-the-badge) Stats tracking  
-- ![Check](https://img.shields.io/badge/%E2%9C%94-Responsive%20UI-brightgreen?style=for-the-badge) Modern design  
+- ✅ **Beginner-friendly courses** for HTML, CSS, JavaScript, C++, and C#  
+- ✅ **AI-guided video tutorials** and interactive lessons  
+- ✅ **Progress dashboard** with stats tracking  
+- ✅ **Responsive and modern UI** suitable for all devices  
 
 ---
 
